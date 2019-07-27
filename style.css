@@ -1,4 +1,14 @@
 .main{
+  
   display: flex;
-  align-items: center:
+  margin: 0;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+h1{
+  font-size: 32px;
+  color: red;
+  margin: auto;
 }
